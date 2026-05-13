@@ -1,7 +1,6 @@
-## Hi there 
+#Reshell Mae
 
 <!--**
-**I'm Reshell Mae****
 Full-stack developer based in Cebu, Philippines.
 I work with JavaScript, Python, Node.js, and Django — mostly building web apps from the ground up. I'm still early in my career but I take my craft seriously. 
 I write clean code, ask good questions, and I don't stop until things actually work.
